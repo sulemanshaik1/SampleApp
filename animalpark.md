@@ -3,3 +3,4 @@ lion added
 panda
 crocodile 
 snake
+peacock
